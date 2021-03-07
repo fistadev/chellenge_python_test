@@ -1,0 +1,3 @@
+Strive School - Python Challenge
+
+https://github.com/Strive-School/ai_challenge_v2
